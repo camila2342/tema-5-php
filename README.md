@@ -1,2 +1,2 @@
 # tema-5-php
-exercício passado em aula pelo professor  
+execício que demandou que eu como aluna manipulase um array numerico.
